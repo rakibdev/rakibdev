@@ -1,5 +1,4 @@
 [config]
-set_wallpaper = false
 
 [templates.readme]
 input_path = "README.template"

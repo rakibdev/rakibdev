@@ -7,6 +7,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Allows github-actions bot to commit.
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
