@@ -1,0 +1,3 @@
+[templates.readme]
+input_path = "README.template"
+output_path = "README.md"

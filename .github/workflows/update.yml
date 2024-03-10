@@ -1,0 +1,27 @@
+name: Update
+on:
+  push:
+    paths:
+      - 'README.template'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install matugen from crates.io
+      uses: baptiste0928/cargo-install@v3
+      with:
+        crate: matugen
+        version: '2.1.0'
+
+      - name: Apply matugen Material You colors.
+        run: matugen web-image "https://avatars.githubusercontent.com/rakibdev" -c matugen.toml -v
+
+      - name: Push
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update"
+          git push
