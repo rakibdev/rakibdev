@@ -7,6 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo.
       - uses: actions/checkout@v4
 
       - name: Install matugen from crates.io
@@ -18,7 +19,7 @@ jobs:
       - name: Apply matugen Material You colors.
         run: matugen web-image "https://avatars.githubusercontent.com/rakibdev" -c matugen.toml -v
 
-      - name: Push
+      - name: Push.
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
