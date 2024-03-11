@@ -2,7 +2,7 @@
 
 **Coding Stack:** Vue.js, Bun.js, esbuild, C++.<br>
 **Codeium AI:** Free GitHub Copilot alternative.<br>
-**Gemini:** Best at explaining, comparing or suggesting modern code but sometimes hallucinates. For that reason having to use GPT-4. Google is constantly updating Gemini, maybe fixed in upcoming v1.5 with 1 million tokens. Can't wait.<br>
+**Gemini:** Best at explaining, comparing or suggesting modern code but sometimes hallucinates. For that reason having to use GPT-4 alongside. Google is constantly updating Gemini, maybe fixed in upcoming v1.5 with 1 million tokens. Can't wait.<br>
 **Stable Diffusion XL:** Creating character art with LoRAs in Kaggle (Google Colab alternative). Good they offer free GPU.<br>
 **Raindrop:** Bookmark manager with thumbnail previews.
 
