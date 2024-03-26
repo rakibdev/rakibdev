@@ -1,12 +1,12 @@
-### Nowadays I Heavily Use
+### I've been using...a lot lately
 
-**Coding Stack:** Vue.js, Bun.js, esbuild, C++.<br>
+**Coding:** Vue.js, Bun.js, esbuild, C++.<br>
 **Codeium AI:** Free GitHub Copilot alternative.<br>
-**Gemini:** Best at explaining, comparing or suggesting modern code but sometimes hallucinates. For that reason having to use GPT-4 alongside. Google is constantly updating Gemini, maybe fixed in upcoming v1.5 with 1 million tokens. Can't wait.<br>
-**Stable Diffusion XL:** Creating character art with LoRAs in Kaggle (Google Colab alternative). Good they offer free GPU.<br>
+**Gemini:** Feels more human. Best at everything but sometimes hallucinates. For that reason having to use GPT-4 alongside. Google is constantly updating Gemini, maybe fixed in upcoming v1.5 with 1 million tokens. Can't wait.<br>
+**Stable Diffusion XL:** Creating character art training LoRAs in Kaggle (Google Colab alternative). Good they offer free GPU.<br>
 **Raindrop:** Bookmark manager with thumbnail previews.
 
-### To Keep Myself Updated
+### To stay in the loop
 
 Reddit: [r/webdev](https://sh.reddit.com/r/webdev)<br>
 YouTube: [Fireship](https://www.youtube.com/c/fireship)<br>
@@ -17,7 +17,7 @@ This kind of news: [9To5Google](https://9to5google.com), [Android Police](https:
 
 ### Hobbies
 
-Only 2, coding and music. A playlist with 700+ curated music which I've been collecting for 5 years. YouTube playlist is troublesome to maintain. Sometimes channels delete or private their video and YouTube hides them without telling the title of it. Wrote a [script](https://github.com/rakibdev/dotfiles/blob/main/home/rakib/Downloads/apps-script/youtube-playlist-export/app.js) for this which exports videos details in JSON so I can search and re-add.
+Only coding and music. Playlist with 700+ curated music which I've been collecting over 5 years.
 
 ### OS
 
