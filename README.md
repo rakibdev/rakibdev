@@ -2,7 +2,7 @@
 
 **Coding:** Vue.js, Bun.js, esbuild, C++.<br>
 **Codeium AI:** Free GitHub Copilot alternative.<br>
-**Gemini:** Feels more human. Best at everything but sometimes hallucinates. For that reason having to use GPT-4 alongside. Google is constantly updating Gemini, maybe fixed in upcoming v1.5 with 1 million tokens. Can't wait.<br>
+**Gemini:** More human and useful than GPT but sometimes hallucinates with code. For that reason having to use GPT-4 alongside only for coding.<br>
 **Stable Diffusion XL:** Creating character art training LoRAs in Kaggle (Google Colab alternative). Good they offer free GPU.<br>
 **Raindrop:** Bookmark manager with thumbnail previews.
 
