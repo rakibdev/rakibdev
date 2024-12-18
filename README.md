@@ -1,12 +1,7 @@
-### I've been using...a lot lately
+**Tech:** Vue.js, Bun.js, TypeScript C++.<br>
+**Cluade 3.5:** ULTRA MEGA GIGA SUPER HYPER META Chad AI.<br>
 
-**Coding:** Vue.js, Bun.js, esbuild, C++.<br>
-**Codeium AI:** Free GitHub Copilot alternative.<br>
-**Gemini:** More human, useful than GPT but sometimes hallucinates with code. Only for coding using GPT alongside.<br>
-**Stable Diffusion XL:** Creating character art training LoRAs in Kaggle (Google Colab alternative). Good they offer free GPU.<br>
-**Raindrop:** Bookmark manager with thumbnail previews.
-
-### To stay in the loop
+### I visit regularly
 
 Reddit: [r/webdev](https://sh.reddit.com/r/webdev)<br>
 YouTube: [Fireship](https://www.youtube.com/c/fireship)<br>
