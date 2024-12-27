@@ -1,4 +1,4 @@
-**Tech:** Vue.js, Bun.js, TypeScript C++.<br>
+**Tech:** TypeScript, Bun.js, Vue, C++, Arch Linux.<br>
 **Cluade 3.5:** ULTRA MEGA GIGA SUPER HYPER META Chad AI.<br>
 
 ### I visit regularly
