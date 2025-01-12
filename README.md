@@ -1,13 +1,12 @@
 **Tech:** TypeScript, Bun.js, Vue, C++, Arch Linux.<br>
-**Cluade 3.5:** ULTRA MEGA GIGA SUPER HYPER META Chad AI.<br>
+**Cluade 3.5:** Ultra Max Prime AI.<br>
 
 ### I visit regularly
 
-Reddit: [r/webdev](https://sh.reddit.com/r/webdev)<br>
+Reddit: [r/webdev](https://reddit.com/r/webdev)<br>
 YouTube: [Fireship](https://www.youtube.com/c/fireship)<br>
-daily.dev: [rakibgoogle](https://app.daily.dev/rakibgoogle/upvoted)<br>
-What's new in Android 15 Developer Preview?<br>
-Material 3 redesign? UI changes screenshots?<br>
+What's new in Android 16 Developer Preview?<br>
+Material 3 redesign UI changes screenshots?<br>
 This kind of news: [9To5Google](https://9to5google.com), [Android Police](https://www.androidpolice.com), Twitter.
 
 ### Hobbies
