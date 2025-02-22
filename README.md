@@ -1,7 +1,6 @@
-**Always using:** TypeScript, Bun.js, Vue, C++, Arch Linux.<br>
-**Cluade 3.5:** Ultimate Prime Max AI.<br>
+**Likes:** TypeScript, Bun.js, Vue, C++, Arch Linux, Qwen2.5-Max.<br>
 
-I'm a Google stan and have no hobby other than coding and music.
+I'm a big Google stan and have no hobby other than coding and music.
 
 ### OS
 
