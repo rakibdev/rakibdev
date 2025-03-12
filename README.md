@@ -1,4 +1,4 @@
-**Likes:** TypeScript, Bun.js, Vue, C++, Arch Linux, Qwen2.5-Max.<br>
+**Likes:** TypeScript, Bun.js, Vue, C++, Arch Linux, Claude AI.<br>
 
 I'm a big Google stan and have no hobby other than coding and music.
 
