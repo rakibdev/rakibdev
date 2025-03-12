@@ -1,6 +1,6 @@
 **Likes:** TypeScript, Bun.js, Vue, C++, Arch Linux, Claude AI.<br>
 
-I'm a big Google stan and have no hobby other than coding and music.
+A big Google stan and have no hobby other than coding and music.
 
 ### OS
 
